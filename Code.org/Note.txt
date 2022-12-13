@@ -1,12 +1,12 @@
-Code.org Certificates Online
+Code.org Certificates - Online
 Registered to Nguyen Phuoc Quy Ngoc (npquyngoc)
 
-    Course 1: https://studio.code.org/s/course1
-    Course 2: https://studio.code.org/s/course2
-    Course 3: https://studio.code.org/s/course3
-    Course 4: https://studio.code.org/s/course4
+Course 1: https://studio.code.org/s/course1
+Course 2: https://studio.code.org/s/course2
+Course 3: https://studio.code.org/s/course3
+Course 4: https://studio.code.org/s/course4
 
-    Certificate 1: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMSIsImRvbm9yIjoiTGluZGEgYW5kIEdsZW5uIEdyZWVuYmVyZyJ9
-    Certificate 2: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMiIsImRvbm9yIjoiQmlsbCBHYXRlcyJ9
-    Certificate 3: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMyIsImRvbm9yIjoiRGFyYSBLaG9zcm93c2hhaGkifQ==
-    Certificate 4: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlNCIsImRvbm9yIjoiRmFjZWJvb2sifQ==
+Certificate 1: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMSIsImRvbm9yIjoiTGluZGEgYW5kIEdsZW5uIEdyZWVuYmVyZyJ9
+Certificate 2: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMiIsImRvbm9yIjoiQmlsbCBHYXRlcyJ9
+Certificate 3: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlMyIsImRvbm9yIjoiRGFyYSBLaG9zcm93c2hhaGkifQ==
+Certificate 4: https://studio.code.org/print_certificates/eyJuYW1lIjoiTmd1eWVuIFBodW9jIFF1eSBOZ29jIiwiY291cnNlIjoiY291cnNlNCIsImRvbm9yIjoiRmFjZWJvb2sifQ==
